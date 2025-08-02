@@ -59,6 +59,7 @@ This project aims to detect phishing websites using a Random Forest machine lear
 * Split data (70% training, 30% testing).
 * Trained a Random Forest Classifier.
 * Achieved **96.68% accuracy** on test set.
+### * !!NOTE: Due to the size models can't be reviewed online on Github, but can be downloaded!!
 
 #### 5. Power BI Dashboard
 
@@ -86,8 +87,8 @@ This project aims to detect phishing websites using a Random Forest machine lear
 
 **Moses Manzi**
 
-# Instructor: Eric Maniraguha
-# Course: Introduction to Big Data Analytics 
+##### Instructor: Eric Maniraguha
+##### Course: Introduction to Big Data Analytics 
 
 
 **August 2025**
