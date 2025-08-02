@@ -1,5 +1,5 @@
 
-### Project Title:
+## Project Title:
 
 **Phishing Website Detection using Machine Learning and Power BI**
 
@@ -12,7 +12,7 @@ This project aims to detect phishing websites using a Random Forest machine lear
 ---
 
 ### Tools and Technologies
-* # *Anaconda* including:
+* ##### *Anaconda* including:
 * Python (Jupyter Notebook)
 * scikit-learn
 * pandas, seaborn, matplotlib
