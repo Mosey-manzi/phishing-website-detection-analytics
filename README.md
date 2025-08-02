@@ -71,8 +71,8 @@ This project aims to detect phishing websites using a Random Forest machine lear
   * Waterfall chart: `SFH` feature impact
   * Card: Total number of records
 
-![Dashboard Overview](images/Dashboard.png)
-![Model Accuracy Chart](images/accuracy.png)
+![convert data into csv](images/converting%20into%20CSV.png)
+
 
 ### Final Dashboard
 
