@@ -72,6 +72,7 @@ This project aims to detect phishing websites using a Random Forest machine lear
   * Card: Total number of records
 
 ![convert data into csv](images/converting%20into%20CSV.png)
+![Top important Features](images/feature_importance.png)
 
 
 ### Final Dashboard
