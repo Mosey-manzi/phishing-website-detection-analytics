@@ -71,32 +71,22 @@ This project aims to detect phishing websites using a Random Forest machine lear
   * Waterfall chart: `SFH` feature impact
   * Card: Total number of records
 
----
-
-### 📸 Screenshots of Results
-
-*You may add screenshots here using the following format:*
-
-```
 ![Dashboard Overview](images/Dashboard.png)
 ![Model Accuracy Chart](images/accuracy.png)
-```
-
----
 
 ### Final Dashboard
 
 *Add a full screenshot of your final Power BI dashboard here.*
 
-![Dashboard Overview(images/Dashboard.png)
+![Dashboard Overview](images/Dashboard.png)
 
----
 
-### 🧑‍💻 Author
+### Preped by:
 
 **Moses Manzi**
-Instructor: Eric Maniraguha
-Course: Introduction to Big Data Analytics (INSY 8413)
+
+# Instructor: Eric Maniraguha
+# Course: Introduction to Big Data Analytics 
 
 
 **August 2025**
